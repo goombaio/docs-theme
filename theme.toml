@@ -1,8 +1,8 @@
 name = "docs-theme"
 license = "Apache 2.0"
 licenselink = "https://github.com/goombaio/docs-theme/blob/develop/LICENSE"
-description = "Default themne for Gommba's documentation site."
-homepage = "http://docs.goomba.io"
+description = "Default themne for Gommba project documentation site."
+homepage = "http://goombaproject.io"
 tags = ["documentation", "minimal", "simple", "clean"]
 features = ["minimal", "responsive", "simple", "clean", "light"]
 min_version = "0.30"
